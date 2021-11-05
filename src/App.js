@@ -8,6 +8,7 @@ function App() {
     <div className="App">
      {/* <DatafromGql/> */}
      <OneDataAtATime/>
+     <h1>Hello</h1>
     </div>
   );
 }
